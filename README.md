@@ -49,7 +49,7 @@
 ---
 
 ## 📂 프로젝트
-
+### 🎯 팀 프로젝트
 <a href="https://github.com/mepwj/5-team-daramgil-sumda-fe">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mepwj&repo=5-team-daramgil-sumda-fe" />
 </a>
@@ -65,6 +65,9 @@
 <a href="https://github.com/mepwj/MDMS">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mepwj&repo=MDMS" />
 </a>
+
+
+### 🛠️ 1인 프로젝트 
 <a href="https://github.com/mepwj/cloud-story-react">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mepwj&repo=cloud-story-react" />
 </a>
@@ -74,7 +77,6 @@
 <a href="https://github.com/mepwj/cloud-story-be">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mepwj&repo=cloud-story-be" />
 </a>
-
 ---
 
 ## 📬 Contact
