@@ -56,6 +56,12 @@
 <a href="https://github.com/mepwj/5-team-daramgil-sumda-be">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mepwj&repo=5-team-daramgil-sumda-be" />
 </a>
+<a href="https://github.com/mepwj/voiceCut_FE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mepwj&repo=voiceCut_FE" />
+</a>
+<a href="https://github.com/mepwj/jeju-little-dreamers-fe-v2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mepwj&repo=jeju-little-dreamers-fe-v2" />
+</a>
 <a href="https://github.com/mepwj/MDMS">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mepwj&repo=MDMS" />
 </a>
