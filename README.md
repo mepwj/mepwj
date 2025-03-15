@@ -6,7 +6,7 @@
 개발은 단순한 도구일 뿐이며, 특정 기술에 얽매이지 않고 필요에 따라 새로운 기술을 빠르게 학습하고 적용하는 것을 중요하게 여깁니다. 
 다양한 프로젝트를 통해 프론트엔드나 벡엔드에 구분짓지 않고 여러 분야의 개발을 경험하며 꾸준히 성장하고 있습니다.
 
-최근에는 풀스택 개발자로 근무하고 있으며, Vue 와 Spring boot 개발 업무를 하고 있습니다. 
+최근에는 한 회사의 풀스택 개발자로 근무하고 있으며, Vue 와 Spring boot, Flask 서버 개발 업무를 하고 있습니다. 
 동시에 사이드 프로젝트로 Next(TypeScript) & Express 를 공부, 개발하고 있습니다. 
 
 ---
@@ -78,9 +78,24 @@
 <a href="https://github.com/mepwj/cloud-story-be">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mepwj&repo=cloud-story-be" />
 </a>
+
+### 진행 중인 프로젝트(~ 2025.03.15)
+1. BRMS 솔루션 개발
+Vue.js 기반 클라이언트 개발
+Spring Boot 기반 서버 개발
+복잡한 데이터 처리 및 클라이언트 성능 최적화
+
+2. 기계 학습 및 데이터 전처리 솔루션 유지보수
+Flask 및 Vue.js 기반 개발
+데이터 수집 및 전처리 개선
+학습 모델 배포 및 성능 최적화
+
+3. 이터널 리턴 전적 검색 사이트 (ERer)
+Next(TypeScript) & Express 서버 개발
+
 ---
 
 ## 📬 Contact
 
 📧 Email: hoholeo382@gmail.com  
-💻 GitHub: [Recyclingbottle](https://github.com/Recyclingbottle)
+💻 GitHub: [mepwj](https://github.com/mepwj)
