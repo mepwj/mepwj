@@ -78,7 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mepwj&repo=cloud-story-be" />
 </a>
 
-### 진행 중인 프로젝트(~ 2025.03.15)
+### 진행 중인 프로젝트
 1. BRMS 솔루션 개발
 - Vue.js 기반 클라이언트 개발
 - Spring Boot 기반 서버 개발
